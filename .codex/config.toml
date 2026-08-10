@@ -1,0 +1,2 @@
+# Generated from .general/settings.json by `just sync-ai-config`. Edit the source, not this file.
+sandbox_mode = "workspace-write"
